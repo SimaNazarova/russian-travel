@@ -4,4 +4,4 @@
 
 **Используемые технологии:** Flexbox-вёрстка, позиционирование элементов, Grid layout, адаптивная и резиновая вёрстки.
 
-
+GitHub Pages https://simanazarova.github.io/russian-travel/
