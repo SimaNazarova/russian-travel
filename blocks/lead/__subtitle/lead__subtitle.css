@@ -7,15 +7,17 @@
   font-weight: lighter;
 }
 
-@media all and (max-width: 692px) {
+@media all and (max-width: 1024px) {
   .lead__subtitle {
-      font-size: 16px;
-      line-height: 1.25;
+    margin: 0 auto 56px;
   }
 }
 
 @media all and (max-width: 692px) {
   .lead__subtitle {
-    margin: 0 auto 40px;
+      font-size: 16px;
+      line-height: 1.25;
+      margin: 0 auto 40px;
   }
 }
+

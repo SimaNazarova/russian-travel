@@ -4,7 +4,6 @@
   line-height: 1.12;
   text-decoration: none;
   margin-top: 0;
-  margin-right: 18px;
 }
 
 @media all and (max-width: 755px) {
@@ -17,6 +16,6 @@
 }
 
 .footer__link:hover {
-  opacity: 0.5;
+  opacity: 0.8;
   transition: opacity 0.5s linear;
  }

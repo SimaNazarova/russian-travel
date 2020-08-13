@@ -9,7 +9,6 @@
   margin: 0 auto;
   position: relative;
   z-index: 1;
-  text-decoration: none
 }
 
 @media all and (max-width: 512px) {
